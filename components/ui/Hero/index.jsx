@@ -37,7 +37,7 @@ const Hero = () => (
             </svg>
           </NavLink>
           <NavLink
-            href="#cta"
+            href="/faqs"
             className="flex items-center gap-x-2 text-gray-700 hover:text-gray-900"
             scroll={false}
           >
